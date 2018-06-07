@@ -1,0 +1,93 @@
+body,div#calendar{
+  color: #F37221;
+  background-color: #5C5C5C;
+}
+
+div.fc-toolbar.fc-header-toolbar > div.fc-left > h2{
+  background-color: #F37221;
+}
+
+div.fc-toolbar.fc-header-toolbar div.fc-right{
+  color: #FFFFFF;
+  background-color: #E4E4E4;
+}
+
+button.fc-state-default{
+  background-color:#E4E4E4;
+}
+
+div.fc-right{
+ background-color: #E4E4E4;
+}
+
+div.fc-left{
+ background-color: #E4E4E4;
+}
+
+div.fc-toolbar.fc-header-toolbar > div.fc-right > button{
+  color: #F37221;
+  border: none;
+}
+
+div.fc-toolbar.fc-header-toolbar > div.fc-right > div > button.fc-prev-button.fc-button.fc-state-default.fc-corner-left{
+  background-color: #E4E4E4;
+  border: none;
+}
+
+div.fc-toolbar.fc-header-toolbar > div.fc-right > div > button.fc-prev-button.fc-button.fc-state-default.fc-corner-right{
+  background-color: #E4E4E4;
+  border: none;
+}
+/*
+div.fc-toolbar.fc-header-toolbar > div.fc-right > div > button.fc-prev-button.fc-button.fc-state-default.fc-corner-left.fc-state-hover{
+  background-color: #E4E4E4;
+  border: none;
+}
+
+div.fc-toolbar.fc-header-toolbar > div.fc-right > div > button.fc-prev-button.fc-button.fc-state-default.fc-corner-right.fc-state-hover{
+  background-color: #E4E4E4;
+  border: none;
+}
+*/
+div.fc-toolbar.fc-header-toolbar div.fc-right div.fc-button-group{
+  background-color: #E4E4E4;
+}
+
+button.fc-prev-button.fc-button.fc-state-default.fc-corner-left{
+  color: #F37221;
+  background-color: #E4E4E4;
+}
+
+button.fc-next-button.fc-button.fc-state-default.fc-corner-right{
+  color: #F37221;
+  background-color: #E4E4E4;
+}
+
+div.fc-toolbar.fc-header-toolbar > div.fc-right > button span.fc-icon.fc-icon-left-single-arrow{
+  color: #F37221;
+  background-color: #E4E4E4;
+}
+
+div.fc-toolbar.fc-header-toolbar > div.fc-right > button span.fc-icon.fc-icon-right-single-arrow{
+  color: #F37221;
+  background-color: #E4E4E4;
+}
+
+span.fc-icon.fc-icon-right-single-arrow{
+  color: #F37221;
+  background-color: #E4E4E4;
+}
+
+div.fc-button-group button.fc-prev-button.fc-button.fc-state-default.fc-corner-left.fc-state-hover{
+  color: #F37221;
+  background-color: #E4E4E4;
+}
+
+div.fc-button-group button.fc-next-button.fc-button.fc-state-default.fc-corner-right.fc-state-hover{
+  color: #F37221;
+  background-color: #E4E4E4;
+}
+
+div.fc-toolbar.fc-header-toolbar > div.fc-right > div{
+  background-color: #E4E4E4;
+}

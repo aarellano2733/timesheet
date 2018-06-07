@@ -1,17 +1,11 @@
-$(function() {
+$(function() {  //page ready
 
-  $('#calendar').fullCalendar({
-    'render'
-    header: { center: 'month,agendaWeek' }, // buttons for switching between views
+    $('#calendar').fullCalendar({ //initialize calendar
 
-    views: {
-    month: { // name of view
-    titleFormat: 'YYYY, MM, DD'
+      dayClick: function() {
 
-    dayClick: function() {
-
-    alert('a day has been clicked!');
-
+        alert('a day has been clicked!')
+      }
   })
 
 });
